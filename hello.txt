@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the master
+=======
+hi branch
+>>>>>>> feature
